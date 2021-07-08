@@ -1,0 +1,57 @@
+2021-07-09 03:33:42 INFO  Log:10 - ****************************************************************************************
+2021-07-09 03:33:42 INFO  Log:11 - ****************************************************************************************
+2021-07-09 03:33:42 INFO  Log:12 - $$$$$$$$$$$$$$$$$$$$$                 Frontend Task one       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-07-09 03:33:42 INFO  Log:13 - ****************************************************************************************
+2021-07-09 03:33:42 INFO  Log:14 - ****************************************************************************************
+2021-07-09 03:33:43 INFO  Log:26 - Clicked on the show rows drop down. 
+2021-07-09 03:33:46 INFO  Log:26 - Total number of rows displayed is ---> 100
+2021-07-09 03:33:47 INFO  Log:18 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-07-09 03:33:47 INFO  Log:19 - X
+2021-07-09 03:33:47 INFO  Log:20 - X
+2021-07-09 03:33:47 INFO  Log:21 - X
+2021-07-09 03:33:47 INFO  Log:22 - X
+2021-07-09 03:33:57 INFO  Log:10 - ****************************************************************************************
+2021-07-09 03:33:57 INFO  Log:11 - ****************************************************************************************
+2021-07-09 03:33:57 INFO  Log:12 - $$$$$$$$$$$$$$$$$$$$$                 Frontend Task Two       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-07-09 03:33:57 INFO  Log:13 - ****************************************************************************************
+2021-07-09 03:33:57 INFO  Log:14 - ****************************************************************************************
+2021-07-09 03:33:58 INFO  Log:26 - Clicked on the Filters Button on the Header row. 
+2021-07-09 03:34:01 INFO  Log:26 - Clicked on the Add filter button. 
+2021-07-09 03:34:03 INFO  Log:26 - Clicked on Filter Market Cap On more filters pop up. 
+2021-07-09 03:34:04 INFO  Log:26 - Typed the value to text box using Webdriver method sendKeys
+2021-07-09 03:34:05 INFO  Log:26 - Typed the value to text box using Webdriver method sendKeys
+2021-07-09 03:34:08 INFO  Log:26 - Clicked on Apply Filter Button to apply the Selected Filters. 
+2021-07-09 03:34:11 INFO  Log:26 - Clicked on Filter Price On more filters pop up. 
+2021-07-09 03:34:11 INFO  Log:26 - Typed the value to text box using Webdriver method sendKeys
+2021-07-09 03:34:11 INFO  Log:26 - Typed the value to text box using Webdriver method sendKeys
+2021-07-09 03:34:16 INFO  Log:26 - Clicked on Apply Filter Button to apply the Selected Filters. 
+2021-07-09 03:34:16 INFO  Log:26 - Clicked on Show Results Button to show the applied filter results. 
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 9186516578 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 8763890759 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 3863506338 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 3686649984 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 2602737421 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 2256077272 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 1756507378 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 1589496591 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 1338767067 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 1286778843 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 2188963423 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:19 INFO  Log:26 - Column Market Cap's 1 row value --> 1825580976 <-- is in between the Start range: 1000000000 and End Range: 10000000000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 490.54 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 131.05 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 300.13 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 205.40 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 138.58 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 422.23 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 207.38 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 121.34 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 110.07 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 125.89 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 315.57 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:22 INFO  Log:26 - Column Price's 1 row value --> 102.33 <-- is in between the Start range: 101 and End Range: 1000
+2021-07-09 03:34:24 INFO  Log:18 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-07-09 03:34:24 INFO  Log:19 - X
+2021-07-09 03:34:24 INFO  Log:20 - X
+2021-07-09 03:34:24 INFO  Log:21 - X
+2021-07-09 03:34:24 INFO  Log:22 - X
