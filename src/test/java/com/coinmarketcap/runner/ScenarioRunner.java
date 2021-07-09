@@ -11,18 +11,21 @@ import io.cucumber.testng.CucumberOptions;
 /**
  * @author PRAMOD KS
  */
-@CucumberOptions(features = { "src/test/resources/features/" }, tags = "@FrontEndTest", glue = "com.coinmarketcap.steps", plugin = {
-		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "pretty" }, monochrome = true, publish = true)
-public class ScenarioRunner extends AbstractTestNGCucumberTests{
+@CucumberOptions(features = {
+		"src/test/resources/features/" }, tags = "@CoinMarketCap", glue = "com.coinmarketcap.steps", plugin = {
+				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+				"pretty" }, monochrome = true, publish = true)
+public class ScenarioRunner extends AbstractTestNGCucumberTests {
 
 	@BeforeClass
+
 	public void beforeClass() {
-		Helper.addSystemInfo();
+
 	}
 
 	@AfterClass
 	public void afterClass() {
-		
+		Helper.addSystemInfo();
 	}
-	
+
 }

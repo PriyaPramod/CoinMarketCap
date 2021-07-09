@@ -1,5 +1,5 @@
 #Author: Pramod K Siddaramaiah
-@FrontEndTest
+@FrontEndTest @CoinMarketCap
 Feature: FrontEndTest
 
   Scenario Outline: Frontend Task one

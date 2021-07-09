@@ -39,13 +39,16 @@ public class BaseStep {
 					scenario.getName());
 		}
 		testContext.getDriverManager().closeBrowser();
+
 		Log.endTestCase(scenario.getName());
 	}
 
 	@AfterStep
 	public void addingScreenshotAfterEveryStep() {
+
 		scenario.attach(Helper.getByteScreenshot(testContext.getDriverManager().getWebDriver()), "image/png",
 				"Screenshot" + Helper.getRandomInt(1, 10000));
+
 	}
 
 }
